@@ -1042,6 +1042,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "genanki" },
     { name = "manim" },
+    { name = "numpy" },
 ]
 
 [package.dev-dependencies]
@@ -1060,6 +1061,7 @@ dev = [
 requires-dist = [
     { name = "genanki", specifier = ">=0.13.1" },
     { name = "manim", specifier = ">=0.19.0" },
+    { name = "numpy", specifier = ">=2.3.4" },
 ]
 
 [package.metadata.requires-dev]
