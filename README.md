@@ -1,6 +1,6 @@
 # Manim-Anki
 
-Some [experiments](https://www.manim.community/) in making [anki](https://apps.ankiweb.net/) decks with manim animations.
+Some experiments in making [anki](https://apps.ankiweb.net/) decks with [manim](https://www.manim.community/) animations.
 
 ## Structure
 
